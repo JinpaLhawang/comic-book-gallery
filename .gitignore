@@ -250,6 +250,3 @@ paket-files/
 # JetBrains Rider
 .idea/
 *.sln.iml
-/src/ComicBookGallery/Web.Debug.config
-/src/ComicBookGallery/Web.Release.config
-/src/ComicBookGallery/Global.asax
